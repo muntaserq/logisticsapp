@@ -1,0 +1,106 @@
+<orders>
+	<order id="TO-001">
+		<orderTime>1</orderTime>
+		<destination>Miami, FL</destination>
+			<item>
+				<id>ABC123</id>
+				<quantity>180</quantity>
+			</item>
+			<item>
+				<id>CR2032</id>
+				<quantity>320</quantity>
+			</item>
+	</order>
+	<order id="TO-002">
+		<orderTime>1</orderTime>
+		<destination>Boston, MA</destination>
+			<item>
+				<id>PL132-C</id>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<id>XLK200B</id>
+				<quantity>120</quantity>
+			</item>
+	</order>
+	<order id="TO-003">
+		<orderTime>4</orderTime>
+		<destination>Seattle, WA</destination>
+			<item>
+				<id>XTP202</id>
+				<quantity>100</quantity>
+			</item>
+			<item>
+				<id>E241i</id>
+				<quantity>105</quantity>
+			</item>
+	</order>
+	<order id="TO-004">
+		<orderTime>10</orderTime>
+		<destination>Phoenix, AZ</destination>
+			<item>
+				<id>CR2032</id>
+				<quantity>200</quantity>
+			</item>
+			<item>
+				<id>SR71-D</id>
+				<quantity>85</quantity>
+			</item>
+	</order>
+	<order id="TO-005">
+		<orderTime>7</orderTime>
+		<destination>Chicago, IL</destination>
+			<item>
+				<id>XLK200B</id>
+				<quantity>120</quantity>
+			</item>
+			<item>
+				<id>RX100-3</id>
+				<quantity>200</quantity>
+			</item>
+	</order>
+	<order id="TO-006">
+		<orderTime>8</orderTime>
+		<destination>Denver, CO</destination>
+			<item>
+				<id>CT1928</id>
+				<quantity>120</quantity>
+			</item>
+	</order>
+	<order id="TO-007">
+		<orderTime>11</orderTime>
+		<destination>San Francisco, CA</destination>
+			<item>
+				<id>JBL3100</id>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<id>CT1928</id>
+				<quantity>20</quantity>
+			</item>
+	</order>
+	<order id="TO-008">
+		<orderTime>12</orderTime>
+		<destination>St. Louis, MO</destination>
+			<item>
+				<id>MM35P</id>
+				<quantity>25</quantity>
+			</item>
+			<item>
+				<id>JBL3100</id>
+				<quantity>5</quantity>
+			</item>
+	</order>
+	<order id="TO-009">
+		<orderTime>13</orderTime>
+		<destination>Springfield, IL</destination>
+			<item>
+				<id>XLK200B</id>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<id>JBL3100</id>
+				<quantity>3</quantity>
+			</item>
+	</order>
+</orders>

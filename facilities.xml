@@ -1,0 +1,418 @@
+<facilities>
+	<facility>
+		<location>Seattle, WA</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>8</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Fargo, ND</location>
+				<distance>1426</distance>
+			</link>
+			<link> 
+				<location>San Francisco, CA</location>
+				<distance>808</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>San Francisco, CA</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>12</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Seattle, WA</location>
+				<distance>808</distance>
+			</link>
+			<link> 
+				<location>Denver, CO</location>
+				<distance>1249</distance>
+			</link>
+			<link> 
+				<location>Los Angeles, CA</location>
+				<distance>382</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Los Angeles, CA</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>San Francisco, CA</location>
+				<distance>382</distance>
+			</link>
+			<link> 
+				<location>Phoenix, AZ</location>
+				<distance>372</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Phoenix, AZ</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>8</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Los Angeles, CA</location>
+				<distance>372</distance>
+			</link>
+			<link> 
+				<location>Santa Fe, NM</location>
+				<distance>480</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Denver, CO</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>San Francisco, CA</location>
+				<distance>1249</distance>
+			</link>
+			<link> 
+				<location>Santa Fe, NM</location>
+				<distance>392</distance>
+			</link>
+			<link> 
+				<location>Fargo, ND</location>
+				<distance>889</distance>
+			</link>
+			<link> 
+				<location>St. Louis, MO</location>
+				<distance>851</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Santa Fe, NM</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>8</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Phoenix, AZ</location>
+				<distance>480</distance>
+			</link>
+			<link> 
+				<location>Denver, CO</location>
+				<distance>392</distance>
+			</link>
+			<link> 
+				<location>St. Louis, MO</location>
+				<distance>1032</distance>
+			</link>
+			<link> 
+				<location>Austin, TX</location>
+				<distance>688</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Fargo, ND</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>8</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Seattle, WA</location>
+				<distance>1426</distance>
+			</link>
+			<link> 
+				<location>Denver, CO</location>
+				<distance>889</distance>
+			</link>
+			<link> 
+				<location>Chicago, IL</location>
+				<distance>643</distance>
+			</link>
+			<link> 
+				<location>Springfield, IL</location>
+				<distance>760</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Austin, TX</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Santa Fe, NM</location>
+				<distance>688</distance>
+			</link>
+			<link> 
+				<location>St. Louis, MO</location>
+				<distance>825</distance>
+			</link>
+			<link> 
+				<location>New Orleans, LA</location>
+				<distance>512</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>St. Louis, MO</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>12</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Chicago, IL</location>
+				<distance>297</distance>
+			</link>
+			<link> 
+				<location>Nashville, TN</location>
+				<distance>309</distance>
+			</link>
+			<link> 
+				<location>Austin, TX</location>
+				<distance>825</distance>
+			</link>
+			<link> 
+				<location>Santa Fe, NM</location>
+				<distance>1032</distance>
+			</link>
+			<link> 
+				<location>Denver, CO</location>
+				<distance>851</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Chicago, IL</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Fargo, ND</location>
+				<distance>643</distance>
+			</link>
+			<link> 
+				<location>St. Louis, MO</location>
+				<distance>297</distance>
+			</link>
+			<link> 
+				<location>New York City, NY</location>
+				<distance>790</distance>
+			</link>
+			<link> 
+				<location>Detroit, MI</location>
+				<distance>282</distance>
+			</link>
+			<link> 
+				<location>Springfield, IL</location>
+				<distance>202</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>New Orleans, LA</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Austin, TX</location>
+				<distance>512</distance>
+			</link>
+			<link> 
+				<location>Nashville, TN</location>
+				<distance>532</distance>
+			</link>
+			<link> 
+				<location>Atlanta, GA</location>
+				<distance>469</distance>
+			</link>
+			<link> 
+				<location>Miami, FL</location>
+				<distance>864</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Nashville, TN</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>8</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>St. Louis, MO</location>
+				<distance>309</distance>
+			</link>
+			<link> 
+				<location>New Orleans, LA</location>
+				<distance>532</distance>
+			</link>
+			<link> 
+				<location>Norfolk, VA</location>
+				<distance>706</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Detroit, MI</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Chicago, IL</location>
+				<distance>282</distance>
+			</link>
+			<link> 
+				<location>New York City, NY</location>
+				<distance>614</distance>
+			</link>
+			<link> 
+				<location>Boston, MA</location>
+				<distance>719</distance>
+			</link>
+			<link> 
+				<location>Madison, WI</location>
+				<distance>435</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Boston, MA</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Detroit, MI</location>
+				<distance>719</distance>
+			</link>
+			<link> 
+				<location>New York City, NY</location>
+				<distance>215</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>New York City, NY</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>14</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Boston, MA</location>
+				<distance>215</distance>
+			</link>
+			<link> 
+				<location>Detroit, MI</location>
+				<distance>614</distance>
+			</link>
+			<link> 
+				<location>Chicago, IL</location>
+				<distance>790</distance>
+			</link>
+			<link> 
+				<location>Norfolk, VA</location>
+				<distance>363</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Norfolk, VA</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>New York City, NY</location>
+				<distance>363</distance>
+			</link>
+			<link> 
+				<location>Nashville, TN</location>
+				<distance>706</distance>
+			</link>
+			<link> 
+				<location>Atlanta, GA</location>
+				<distance>506</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Atlanta, GA</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>10</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Norfolk, VA</location>
+				<distance>566</distance>
+			</link>
+			<link> 
+				<location>New Orleans, LA</location>
+				<distance>469</distance>
+			</link>
+			<link> 
+				<location>Miami, FL</location>
+				<distance>663</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Miami, FL</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>12</processingRate>
+		<cost>300</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Atlanta, GA</location>
+				<distance>663</distance>
+			</link>
+			<link> 
+				<location>New Orleans, LA</location>
+				<distance>864</distance>
+			</link>
+			<link> 
+				<location>Madison, WI</location>
+				<distance>1528</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Springfield, IL</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>30</processingRate>
+		<cost>15</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Chicago, IL</location>
+				<distance>202</distance>
+			</link>
+			<link> 
+				<location>Fargo, ND</location>
+				<distance>760</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+	<facility>
+		<location>Madison, WI</location>
+		<facilityLimit>500</facilityLimit>
+		<processingRate>25</processingRate>
+		<cost>160</cost>
+		<facilitiyLinks>
+			<link> 
+				<location>Miami, FL</location>
+				<distance>1528</distance>
+			</link>
+			<link> 
+				<location>Detroit, MI</location>
+				<distance>435</distance>
+			</link>
+		</facilitiyLinks>
+	</facility>
+</facilities>
